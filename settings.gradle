@@ -1,0 +1,3 @@
+include ':masterbarcodescanner'
+include ':app'
+rootProject.name = "BarCodeScannerLibCaller"
