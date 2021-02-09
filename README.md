@@ -12,7 +12,9 @@ Like....
 ```sh
 ★ Download Project.
 ★ Separate Module.
+```
 ![alt text](https://raw.githubusercontent.com/SandipLayek27/BarcodeScanner/master/app/src/main/res/drawable/fi.jpg)
+```sh
 ★ GOTO File > New > Import Module.
 ★ Select masterbarcodescaner.
 ★ Import Now.
